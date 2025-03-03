@@ -14,6 +14,7 @@
       $value: $value / $base; } }
   // return the last value written
   @return $value;
+  
 }
 
 @function pow($base, $exponent) {
