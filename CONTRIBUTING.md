@@ -13,7 +13,7 @@ Please follow the house rules to have a bigger chance of your contribution being
  To run SASS, simply use the following command:  
  `sass --unix-newlines --watch style/main.scss`  
  SASS will automatically recompile your css when changed.
- - `Rakefile` contains some tasks that help during development. Feel free to add useful tasks if needed.
+ - `Rakefile`Â contains some tasks that help during development. Feel free to add useful tasks if needed.
  - Please use 2-space indentation when editing the JavaScript. A `.jshintrc` file is present, which will help your code to follow the guidelines if you install and run `jshint`.
  - Please test your modification thoroughly before submitting your Pull Request.
 
